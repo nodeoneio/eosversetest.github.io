@@ -1,10 +1,10 @@
 {
   "producer_account_name": "eosversetest",
   "org": {
-    "candidate_name": "EOSVerse",
+    "candidate_name": "EOSVerse Test",
     "website": "https://nodeoneio.github.io/eosversetest.github.io",
-    "code_of_conduct":"",
-    "ownership_disclosure":"",
+    "code_of_conduct":"https://nodeoneio.github.io/eosversetest.github.io/code-of-conduct.html",
+    "ownership_disclosure":"https://nodeoneio.github.io/eosversetest.github.io/ownership-disclosure.html",
     "email":"",
     "github_user":"",
     "chain_resources": "",
@@ -15,10 +15,10 @@
       "logo_svg":"https://nodeoneio.github.io/eosversetest.github.io/eosverse_logo_svg.svg"
     },
     "location": {
-      "name": "",
-      "country": "",
-      "latitude": 0,
-      "longitude": 0
+      "name": "Seoul",
+      "country": "KR",
+      "latitude": 37.5326,
+      "longitude": 127.024612
     },
     "social": {
       "keybase": "",

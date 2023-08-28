@@ -2,7 +2,7 @@
   "producer_account_name": "eosversetest",
   "org": {
     "candidate_name": "EOSVerse",
-    "website": "",
+    "website": "https://nodeoneio.github.io/eosversetest.github.io",
     "code_of_conduct":"",
     "ownership_disclosure":"",
     "email":"",
@@ -10,9 +10,9 @@
     "chain_resources": "",
     "other_resources": [],
     "branding":{
-      "logo_256":"",
-      "logo_1024":"",
-      "logo_svg":""
+      "logo_256":"https://nodeoneio.github.io/eosversetest.github.io/eosverse_logo_256.png",
+      "logo_1024":"https://nodeoneio.github.io/eosversetest.github.io/eosverse_logo_1024.png",
+      "logo_svg":"https://nodeoneio.github.io/eosversetest.github.io/eosverse_logo_svg.svg"
     },
     "location": {
       "name": "",
